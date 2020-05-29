@@ -12,6 +12,8 @@ Además, puedes encontrar un tutorial de git en:
 ##Objetivo
 
  Crear tu propia página web personalizada, partiendo de esta plantilla.
+ 
+ La plantlla está pensada para hacer una página con información personal, pero prefieres puedes cambiar la temática y convertirla en la página web de un negocio, una web con información turística de Monforte, etc.
 
 Una vez la tengas terminada, deberás publicarla en [GitHub Pages](https://pages.github.com/)
 
