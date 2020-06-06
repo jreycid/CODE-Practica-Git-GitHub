@@ -5,9 +5,13 @@ Tienes a tu disposición todo el material de la asignatura en:
 
 [Aula virtual A Pinguela](https://www.edu.xunta.gal/centros/iespinguela/aulavirtual2/)
 
-Además, puedes encontrar un tutorial de git en: 
+Además, puedes clonar el tutorial de git en: 
 
 [https://github.com/jreycid/GIT-practico.git](https://github.com/jreycid/GIT-practico.git)
+
+O consultarlo a través de GitHub Pages:
+
+[https://jreycid.github.io/Tutorial-GIT/](https://jreycid.github.io/Tutorial-GIT/)
 
 ##Objetivo
 
