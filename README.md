@@ -1,9 +1,7 @@
 
-#CODE A Pinguela - Práctica 2 de Git y GitHub
+#CODE - Práctica 2 de Git y GitHub
 
-Tienes a tu disposición todo el material de la asignatura en:
-
-[Aula virtual A Pinguela](https://www.edu.xunta.gal/centros/iespinguela/aulavirtual2/)
+Tienes a tu disposición todo el material de la asignatura en el aula virtual.
 
 Además, puedes clonar el tutorial de git en: 
 
