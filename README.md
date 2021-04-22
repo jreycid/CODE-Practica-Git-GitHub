@@ -15,7 +15,7 @@ O consultarlo a través de GitHub Pages:
 
  Crear tu propia página web personalizada, partiendo de esta plantilla.
  
- La plantilla está pensada para hacer una página con información personal, pero si prefieres puedes cambiar la temática y convertirla en la página web de un negocio, una web con información turística de Monforte, o cualquie cosa que sea de tu interés.
+ La plantilla está pensada para hacer una página con información personal, pero si prefieres puedes cambiar la temática y convertirla en la página web de un negocio, una web con información turística, o cualquier cosa que sea de tu interés.
 
 Una vez la tengas terminada, deberás publicarla en [GitHub Pages](https://pages.github.com/).
 
