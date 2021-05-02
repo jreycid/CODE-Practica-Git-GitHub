@@ -21,7 +21,7 @@ Una vez la tengas terminada, deberás publicarla en [GitHub Pages](https://pages
 
 En la entrega del aula virtual, llegará con que indiques el enlace a tu página.
 
-##Recomendaciones
+## Recomendaciones
 
 - Crea distintas versiones de tu página web y no esperes a tenerla terminada en local para hacer un único commit...
 - Intenta aplicar todo lo que hemos visto en clases sobre comandos git y gitflow.
