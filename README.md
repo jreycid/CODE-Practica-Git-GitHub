@@ -1,5 +1,5 @@
 
-#CODE - Práctica 2 de Git y GitHub
+# CODE - Práctica 2 de Git y GitHub
 
 Tienes a tu disposición todo el material de la asignatura en el aula virtual.
 
@@ -11,7 +11,7 @@ O consultarlo a través de GitHub Pages:
 
 [https://jreycid.github.io/Tutorial-GIT/](https://jreycid.github.io/Tutorial-GIT/)
 
-##Objetivo
+## Objetivo
 
  Crear tu propia página web personalizada, partiendo de esta plantilla.
  
