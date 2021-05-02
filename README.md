@@ -1,5 +1,5 @@
 
-# CODE - Práctica 2 de Git y GitHub
+# CODE - Práctica de Git y GitHub
 
 Tienes a tu disposición todo el material de la asignatura en el aula virtual.
 
