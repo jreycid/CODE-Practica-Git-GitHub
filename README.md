@@ -3,14 +3,6 @@
 
 Tienes a tu disposición todo el material de la asignatura en el aula virtual.
 
-Además, puedes clonar el tutorial de git en: 
-
-[https://github.com/jreycid/GIT-practico.git](https://github.com/jreycid/GIT-practico.git)
-
-O consultarlo a través de GitHub Pages:
-
-[https://jreycid.github.io/Tutorial-GIT/](https://jreycid.github.io/Tutorial-GIT/)
-
 ## Objetivo
 
  Crear tu propia página web personalizada, partiendo de esta plantilla.
